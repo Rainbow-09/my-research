@@ -1,3 +1,4 @@
+# Modified by YOUR NAME for session 5 exercise
 # clean_data.R
 # Load and clean the wage dataset.
 #
